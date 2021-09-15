@@ -127,7 +127,7 @@ You should be able to ...
 	- [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<dig245-critical-web-design>`
 	- [x] Click "Clone" to make a local copy
 - [x] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🐙**
 - [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
