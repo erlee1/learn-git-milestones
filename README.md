@@ -71,7 +71,7 @@ Create a Github account and make your first commit
 
 - [x] [Create a Github account](https://github.com/join)
 - [x] Fork this [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repository (click the Fork button, top right).
-- [x] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: 😔
+- [x] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **😔**
 - [x] ✏️ Edit the space between the square brackets `[ ]` preceding each line you complete to look like `[x]`
 - [x] ✏️ Commit changes to README.md to the main branch with the message `commit #1 from Github.com`
 - [x] View the commit history and confirm your edits
@@ -80,8 +80,8 @@ Create a Github account and make your first commit
 ### Git Installation
 Install your development environment
 
-- [ ] Complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
-- [ ] Install Git on your machine ([via](https://gist.github.com/derhuerst/1b15ff4652a867391f03))
+- [x] Complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
+- [x] Install Git on your machine ([via](https://gist.github.com/derhuerst/1b15ff4652a867391f03))
 
 **Windows** Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
 
@@ -92,18 +92,18 @@ Install your development environment
 
 ### Configure Git
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] ✏️ This displays a help file with a list of possible commands. What does `log` do? **??**
-- [ ] Add your name and email (replace with your information and press return after each line)
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] ✏️ This displays a help file with a list of possible commands. What does `log` do? **It shows the commit logs.**
+- [x] Add your name and email (replace with your information and press return after each line)
 ```bash
 git config --global user.name "Jane Doe"
 git config --global user.email janedoe@example.com
 ```
-- [ ] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
+- [x] Set the default branch to [main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
 ```bash
 git config --global init.defaultBranch main
 ```
-- [ ] Confirm your settings worked with either of these
+- [x] Confirm your settings worked with either of these
 ```bash
 cat ~/.gitconfig
 git config --list
@@ -118,15 +118,15 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] Install [Atom](https://atom.io/) on your machine
-	- [ ] Connect your Github account in Atom
-- [ ] Install [Github Desktop](https://desktop.github.com/)
-	- [ ] Connect your Github account in Github Desktop
-	- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-	- [ ] File > Clone Repository > Github.com and select it ...
-	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
-	- [ ] Click "Clone" to make a local copy
-- [ ] Open the repo in Atom: Repository > Open in Atom  
+- [x] Install [Atom](https://atom.io/) on your machine
+	- [x] Connect your Github account in Atom
+- [x] Install [Github Desktop](https://desktop.github.com/)
+	- [x] Connect your Github account in Github Desktop
+	- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+	- [x] File > Clone Repository > Github.com and select it ...
+	- [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<dig245-critical-web-design>`
+	- [x] Click "Clone" to make a local copy
+- [x] Open the repo in Atom: Repository > Open in Atom  
 - [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
 - [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
